@@ -1,0 +1,33 @@
+				JSON
+---------------------------------------------
+	
+	XML stands for eXtensible Markup Language · XML is a markup language much like HTML · XML was designed to store and transport data
+
+	As compared to XML, JSON is light weight to send data and fastest data retriving
+
+	
+
+JSON ; JavaScript Object Notation
+
+>	The HTTP/web pages does not understand binary format and you can not send JSON object. 
+	And that is why it is necessary to convert the JSON object into a string before sending it to the server.
+
+>	JSON is a text format for storing and transporting data
+
+>	Easy to write and understand
+
+>	language independent. means it supports somany programming languages
+
+>	It is commonly used for transmitting data in web applications 
+	(e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa)
+
+>	Convert a JavaScript object into a string with JSON.stringify()
+
+>	To communite bwtween front end and backend services
+
+>	JSON supports:
+	-------------
+
+	1)Array  2)Object  3) String  4) Number 5) null 6) Boolean 7) Objects(key-value pair)
+	
+	> for example we have number of employee's are there in company then we can go for array of objects
